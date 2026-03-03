@@ -1,7 +1,7 @@
 # Hi, I'm Syed Tauseef Ahmad 👋
 
 🎓 Computer Science Graduate (2025)  
-💻 Backend Developer | ASP.NET Core | C# | SQL  
+💻 Backend Developer | ASP.NET Core | C# | java | SQL | MySQL   
 📍 Bengaluru, India  
 
 ---
