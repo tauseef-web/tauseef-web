@@ -21,9 +21,9 @@ Currently focused on:
 ## 🛠 Tech Stack
 
 - Languages: C#, Java, SQL
-- Backend: ASP.NET Core, Entity Framework Core
-- Database: SQL Server
-- Tools: Git, GitHub, Visual Studio
+- Backend: ASP.NET Core, Entity Framework Core, Spring, AWT
+- Database: SQL Server, MySQL
+- Tools: Git, GitHub, Visual Studio, Intellij IDE
 - Basics: HTML, CSS, JavaScript
 
 ---
@@ -47,4 +47,4 @@ A web-based application that allows users to scan a QR code and place food order
 
 ---
 
-📫 Reach me at: yourmail@email.com
+📫 Reach me at: ta70246@gmail.com
