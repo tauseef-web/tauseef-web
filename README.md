@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a passionate Computer Science graduate with strong fundamentals in Object-Oriented Programming, Data Structures, and backend development. I enjoy building structured and scalable web applications and continuously improving my problem-solving skills.
+I am a passionate Computer Application graduate(MCA) with strong fundamentals in Object-Oriented Programming, Data Structures, and backend development. I enjoy building structured and scalable web applications and continuously improving my problem-solving skills.
 
 Currently focused on:
 - ASP.NET Core
